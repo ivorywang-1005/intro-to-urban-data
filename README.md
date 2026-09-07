@@ -9,11 +9,11 @@ This repository contains code and documentation for
 ```
     Class       ARCH 6131 Urban Design Methods / Skills / Tools 1
                 Tata Innovation Center
-                Fall 2025
-                Monday 9:30 AM to 12 PM
+                Fall 2026
+                Monday 4 PM to 6:30 PM
 
-    Instructor	Brian Ho
-                brian@brian-ho.io
+    Instructor	Ivory Wang
+                ivory.wangtongyu@gmail.com
 ```
 
 All files are organized according to the class modules:
